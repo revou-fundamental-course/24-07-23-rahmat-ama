@@ -182,14 +182,14 @@ img {vertical-align: middle;}
     align-items: center;
     margin: 20px 0px 20px 0px;
 }
-.headerts {
-    background-color: rgba(1, 180, 180, 0.981);
-    width: 100%;
-    text-align: center;
-    padding: 30px 0px 40px 0px;
-    font-size: x-large;
-    font-family: Verdana, sans-serif;
-}
+    .headerts {
+        background-color: rgba(1, 180, 180, 0.981);
+        width: 100%;
+        text-align: center;
+        padding: 30px 0px 40px 0px;
+        font-size: x-large;
+        font-family: Verdana, sans-serif;
+    }
     .kunjungan {
         display: flex;
         flex-wrap: wrap;
